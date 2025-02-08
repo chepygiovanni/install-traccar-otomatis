@@ -55,5 +55,5 @@ ifconfig eth0 | grep "inet " | awk '{gsub("addr:","",$2);  print $2 }'
 echo "Email: admin"
 echo "Password: admin"
 echo "+-++-++-++-++-++-++-+ +-++-+   +-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-+
-|P||o||w||e||r||e||d| |b||y|   https://github.com/macan0    Need a custom Traccar design: https://www.fiverr.com/users/macano84
+|P||o||w||e||r||e||d| |b||y|   https://github.com/chepyabdul    Need a custom Traccar design: https://www.fiverr.com/users/macano84
 +-++-++-++-++-++-++-+ +-++-+   +-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-++-+"
